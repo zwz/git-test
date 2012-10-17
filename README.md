@@ -10,3 +10,5 @@ This is a test project for novice to practise how to use git.
 希望使用不同操作系统的同学能够把你使用git/github的方法共享上来
 
 当然也可以是一些垃圾文件，呵呵
+
+我可以来修改这个文件 呵呵
