@@ -15,3 +15,5 @@ This is a test project for novice to practise how to use git.
 
 尝试一下
 在此尝试一下
+
+我也尝试下，fork功能 ：）
