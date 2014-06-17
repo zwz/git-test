@@ -36,4 +36,4 @@ git是早就安装好的
 
 如果你想对你fork的项目提交你自己的修改，可以对原repositories的拥有者发出pull request
 
-点击compare,review,create a pull request按钮，就可以给他发pull request啦。
+点击compare,review,create a pull request按钮，就可以给他发pull request啦。`-_-`
